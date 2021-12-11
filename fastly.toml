@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["jrainville@fastly.com"]
+description = "Rust version of time metric app created by Jim Hall for JS."
+language = "rust"
+manifest_version = 2
+name = "time"
+service_id = "5q6kVzuBcqozxLqDFJErsq"
